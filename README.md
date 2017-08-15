@@ -2,4 +2,4 @@
 
 ```cf push```
 
-Continuous Delivrey with Pivotal Cloud Foundry
+Continuous Delivery with Pivotal Cloud Foundry
