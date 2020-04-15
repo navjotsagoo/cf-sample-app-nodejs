@@ -6,3 +6,5 @@ applications:
   buildpack: nodejs_buildpack
   path: .
   random-route: true
+  env: 
+    CloudFoundry: TAS
