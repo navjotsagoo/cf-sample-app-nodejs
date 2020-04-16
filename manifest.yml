@@ -7,4 +7,4 @@ applications:
   path: .
   random-route: true
   env: 
-    CloudFoundry: TAS
+    CloudFoundry: TAS-for-K8
