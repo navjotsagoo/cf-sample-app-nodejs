@@ -7,4 +7,4 @@ applications:
   path: .
   random-route: true
   env: 
-    CloudFoundry: CNN
+    TBS: Azure
