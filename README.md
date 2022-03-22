@@ -1,4 +1,4 @@
 # Node.js Sample App
 
-Tanzu Kontainer Build Service - Building Secure Containers @ Scale
+Tanzu Container Build Service - Building Secure Containers @ Scale
 
