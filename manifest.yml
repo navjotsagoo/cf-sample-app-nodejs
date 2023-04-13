@@ -5,6 +5,6 @@ applications:
   instances: 1
   buildpack: nodejs_buildpack
   path: .
-  random-route: true
+  random-route: false
   env: 
     Product: VMware Tanzu Container Build Service
