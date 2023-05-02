@@ -1,4 +1,4 @@
 # Node.js Sample App
 
-Tanzu Container Build Service - Deploy to AKS
+Build and Deploy Apps in Azure with AI at Azure DoD Summit
 
